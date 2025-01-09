@@ -12,6 +12,10 @@
 - **Analytics Techniques**: K-means clustering, regression, market basket analysis  
 
 ## Featured Projects  
+### [Data Migration ERP Project](https://github.com/mgarcia2895/data-migration-erps)  
+- Designed and implemented a data pipeline to migrate data from a legacy ERP system to Oracle NetSuite.
+- Technologies: SQL, Python, Oracle NetSuite.
+
 ### 1. [Private Label Growth Analysis](https://github.com/your-username/private-label-analysis)  
 - **Description**: Analyzed private label opportunities using K-means clustering and regression models.  
 - **Tools**: Python, R, Power BI  
