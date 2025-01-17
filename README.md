@@ -1,32 +1,35 @@
-# Hi, I'm Miguel Garcia 👋  
+# **Miguel Garcia's Data Analytics Portfolio**
 
-## About Me  
-🎓 Master’s in Business Analytics  
-💼 Data Analyst with experience in data engineering, data visualization, and machine learning  
-🧠 Passionate about solving real-world problems with data and developing actionable insights  
+Welcome to my GitHub portfolio! This repository highlights my hands-on experience in data analytics, data engineering, and visualization through real-world projects. Below are my top projects showcasing my skills in data migration, visualization, and business analysis.
 
-## Key Skills  
-- **Programming Languages**: Python, SQL, R  
-- **Data Visualization**: Power BI, Tableau  
-- **Cloud Platforms**: Snowflake, Azure  
-- **Analytics Techniques**: K-means clustering, regression, market basket analysis  
+---
 
-## Featured Projects  
-### [Data Migration ERP Project](https://github.com/mgarcia2895/data-migration-erps)  
-- Designed and implemented a data pipeline to migrate data from a legacy ERP system to Oracle NetSuite.
-- Technologies: SQL, Python, Oracle NetSuite.
+## **📦 Featured Projects**
 
-### 1. [Private Label Growth Analysis](https://github.com/your-username/private-label-analysis)  
-- **Description**: Analyzed private label opportunities using K-means clustering and regression models.  
-- **Tools**: Python, R, Power BI  
-- **Outcome**: Identified actionable insights for high-end retailers like Harris Teeter.  
+### 1. [Numerator Private Label Analysis](https://github.com/mgarcia2895/numerator-private-label-analysis)
+**Tech Stack:** Python, R, Power BI  
+**Description:** MSBA Capstone project focused on uncovering growth opportunities for private label products using Numerator's consumer purchase data. The project applies market basket analysis, recommendation systems, and time series forecasting to deliver actionable insights.
 
-### 2. [Data Pipeline in Snowflake](https://github.com/your-username/data-pipeline-snowflake)  
-- **Description**: Designed and implemented a data pipeline for efficient ETL processes in Snowflake.  
-- **Tools**: Python, SQL, Snowflake  
-- **Outcome**: Reduced data processing time by 30%.  
+### 2. [Advanced Data Visualizations](https://github.com/mgarcia2895/advanced-data-visualizations)
+**Tech Stack:** Power BI, Tableau, Paginated Reports  
+**Description:** A collection of interactive data visualization projects designed to communicate insights effectively. This repository features dashboards and reports built using Power BI, Tableau, and Power BI Report Builder.
 
-## Contact Me  
-📫 [LinkedIn](www.linkedin.com/in/miguel-garcia-887030155)  
-📧 [Email](miguelgarcia790@outlook.com)  
-📄 [Resume](https://github.com/your-username/your-resume.pdf)  
+### 3. [ERP Data Migration Project: Oracle NetSuite](https://github.com/mgarcia2895/data-migration-erps)
+**Tech Stack:** SQL, Python  
+**Description:** This project showcases my work in developing a data migration pipeline for transitioning data from a legacy ERP system to Oracle NetSuite. Focused on data cleaning, validation, and seamless integration into the new system.
+
+---
+
+## **🔧 Skills & Tools**
+- **Programming Languages:** Python, SQL, R  
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Data Engineering:** SQL, dbt, Oracle NetSuite  
+- **Analytics:** Market Basket Analysis, Recommendation Systems, Time Series Forecasting  
+
+---
+
+## **📫 Connect with Me**
+- **GitHub:** [github.com/mgarcia2895](https://github.com/mgarcia2895)  
+- **LinkedIn:** [linkedin.com/in/miguel-garcia887030155](www.linkedin.com/in/miguel-garcia-887030155/)  
+
+Thank you for visiting my portfolio!
